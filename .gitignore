@@ -1,16 +1,16 @@
 # =============== #
 # Unity generated #
 # =============== #
-Temp/
-Obj/
-UnityGenerated/
-Library/
-Assets/AssetStoreTools*
+WindProject/Temp/
+WindProject/Obj/
+WindProject/UnityGenerated/
+WindProject/Library/
+WindProject/Assets/AssetStoreTools*
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
-ExportedObj/
+WindProject/ExportedObj/
 *.svd
 *.userprefs
 *.csproj
@@ -24,12 +24,12 @@ ExportedObj/
 # ============ #
 # OS generated #
 # ============ #
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-Icon?
-ehthumbs.db
-Thumbs.db
+WindProject/.DS_Store
+WindProject/.DS_Store?
+WindProject/._*
+WindProject/.Spotlight-V100
+WindProject/.Trashes
+WindProject/Icon?
+WindProject/ehthumbs.db
+WindProject/Thumbs.db
 *.meta
